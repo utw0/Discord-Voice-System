@@ -42,15 +42,6 @@ Geliştirme sunucusu varsayılan olarak `http://localhost:3000` adresinde açıl
 5. `Sesten Cikar` ile aktif hesapları pasif moda alın.
 6. İsterseniz DM Temizleyici sayfasından ikinci aracı kullanın.
 
-
-## Sayfalar
-
-- Ana panel: `/`
-- Admin paneli: `/admin`
-- DM temizleyici: `/dm-cleaner`
-
-
-
 ## Üretim Derlemesi
 
 ```bash
