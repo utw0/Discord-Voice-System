@@ -27,7 +27,6 @@ Geliştirme sunucusu varsayılan olarak `http://localhost:3000` adresinde açıl
 
 ## Gerekli Ortam Değişkenleri
 
-`.env.local` dosyasında aşağıdaki değerleri tanımlayın:
 
 - `DISCORD_CLIENT_ID`
 - `DISCORD_CLIENT_SECRET`
